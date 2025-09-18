@@ -11,7 +11,7 @@ public class FizzBuzz
      */
     public static void main(String[] args)
     {
-        for(int j=1; j<=100; j++)
+        for(int j=0; j<=100; j++)
         {
             if (j % 3 == 0)
             {
